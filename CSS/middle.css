@@ -1,0 +1,77 @@
+.left-main-photo{
+    width: 840px;
+    height: 600px;
+}
+.left-mainPhoto-text{
+    position: relative;
+}
+.text-in-mainPhoto{
+  position: absolute;
+  top: 165px;
+  left: 150px;
+  color: black;
+}
+.main-page-worldnews{
+    
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+.main-photo-p{
+    font-family: Helvetica;
+    color: #FFFFFF;
+    column-count: 2;
+}
+.left-mainPhoto-button{
+    background-color: #FA6980;
+    color: white;
+    width: 134px;
+    height: 40px;
+    border: none;
+}
+.left-mainPhoto-button:hover{
+    background-color: #f13554
+}
+.left-mainPhoto-button:active {
+    background-color: #FA6980;
+    box-shadow: 0 5px #f13554;
+    transform: translateY(4px);
+}
+.more-newsFull-div{
+    float: right;
+    position: relative;
+    right: 50px;
+    top: 60px;
+}
+.more-news-right{
+    color: #202124;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+.arrow-right{
+  left: 390px;
+  top: -45px;
+  position: relative;
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  color: #202124;
+}
+.right-travel-tecnology{
+    color: #FA6980;
+    font-family: Helvetica;
+    font-size: 16;
+}
+.article-tittle{
+    font-family: Helvetica;
+    color: #202124;
+    font-size: 16;
+}
+.p-text-right{
+    color: #A6ADB4;
+    font-family: AcuminPro-Regular;
+    font-size: 16;
+}

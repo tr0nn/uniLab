@@ -1,0 +1,37 @@
+.page2-text-box{
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.avatar-text{
+    position: relative;
+}
+.avatar-text p{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #202124;
+
+}
+#big-text{
+    position: absolute;
+    float: right;
+    margin-left: 200px;
+    margin-top: -110px;
+    column-count: 2;
+    font-family:Helvetica;
+    color: #202124;
+    font-size: 14px;
+    opacity: 0.5;
+    margin-right: 100px;
+    column-gap: 50px;
+    column-width: 350px;
+}
+.elephant-box p{
+    margin-left: 120px;
+    margin-right: 500px;
+    margin-top: 30px;
+    font-family: Helvetica;
+    color: #A6ADB4;
+    font-size: 14px;
+}

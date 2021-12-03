@@ -1,0 +1,48 @@
+body {margin: 0;background-color: #F6F8F9;}
+.sidenavLogo{
+    font-family: helvetica;
+    font-size: 13px;
+    color: #FA6980;
+    float: left;
+    margin-left: 21px;
+}
+.sidenav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F6F8F9;
+  
+  height: 50px;
+}
+
+li.nav{
+    float: right;
+    font-family: Helvetica;
+    opacity: 1;
+    color: #343638;
+    font-size: 11px;
+    align-items: center;
+    margin-top: 7px;
+    margin-right: 21px;
+}
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  color: black;
+  opacity: 1;
+  
+}
+.more-news{
+  float: right;
+}
+@media screen and (max-width: 375px) { 
+  li.nav{
+   color: black
+  }
+}

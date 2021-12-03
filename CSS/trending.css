@@ -1,0 +1,41 @@
+.trending{
+    margin-left: 110px;
+}
+.trending-h2{
+    font-family: Helvetica;
+    font-size: 24;
+    color: #202124;
+    width: 114px; height: 19px;
+}
+.trending-image-block{
+    display: flex;
+}
+
+.single-trending-image-block-1{
+    margin-right: 30px;
+    background-color: white;
+}
+.single-trending-image-block-2{
+    margin-right: 30px;
+    background-color: white;
+}
+.h2-style-trending{
+    font-family: Helvetica;
+    font-size: 16;
+    color: #202124;
+}
+.p-style-trending{
+    font-family: AcuminPro-Regular;
+    font-size: 13;
+    color: #A6ADB4;
+}
+.i-style{
+    font-family:Helvetica; 
+    font-size: 11px; 
+    float: right; 
+    margin-left: 10px; 
+    margin-top: 3px;
+}
+.trending h2,p,i{
+   margin-left: 30px;
+}
